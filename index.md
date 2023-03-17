@@ -13,3 +13,8 @@
         this.yearOfBirth = yearOfBirth;
     }
 ```
+
+# Task List
+- [ ] Pet a cat
+- [ ] Catloaf
+- [ ] Cat meow
